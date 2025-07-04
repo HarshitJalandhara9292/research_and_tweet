@@ -1,0 +1,10 @@
+phidata
+newspaper3k
+duckduckgo-search
+groq
+tweepy
+phi
+sqlalchemy
+pgvector
+psycopg[binary]
+pypdf
