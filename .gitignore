@@ -1,0 +1,52 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.pipenv/
+
+# Environment/config files
+.env
+.env.*
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs/editors
+.vscode/
+.idea/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# PyInstaller
+*.spec
+build/
+dist/
+
+# MyPy, Pyright, and Coverage
+.mypy_cache/
+.pyright/
+.coverage
+htmlcov/
+.tox/
+.cache/
+
+# SQLite or temp DBs
+*.sqlite3
+*.db
+
+# Uploads, artifacts, temp files
+*.bak
+*.tmp
+*.swp
+
